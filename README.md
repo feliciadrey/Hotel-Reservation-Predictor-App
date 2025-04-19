@@ -1,2 +1,5 @@
 # UTS-Model-Deployment
-UTS Model Deployment (Felicia Audrey Tanujaya -2702217610)
+UTS Model Deployment 
+Nama:Felicia Audrey Tanujaya
+NIM: 2702217610
+Kelas: LE09 Data Science
