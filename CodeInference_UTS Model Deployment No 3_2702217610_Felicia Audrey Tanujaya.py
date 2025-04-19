@@ -40,7 +40,7 @@ def main():
     repeated_guest = st.selectbox("Repeated Guest", [0, 1])
     no_of_previous_cancellations = st.slider("Previous Cancellations", 0, 13, 0)
     no_of_previous_bookings_not_canceled = st.slider("Previous Bookings Not Canceled", 0, 58, 0)
-    avg_price_per_room = st.slider("Average Price per Room", 0, 540, 0)
+    avg_price_per_room = st.number_input("Average Price per Room", min_value=0.0, step=0.01)
     no_of_special_requests = st.slider("Special Requests", 0, 5, 0)
 
     input_dict = {
