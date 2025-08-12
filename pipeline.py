@@ -1,6 +1,4 @@
-#Nama: Felicia Audrey Tanujaya
-#NIM: 2702217610
-#Kelas: LE09 Model Deployment
+#OOP Code
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -129,7 +127,6 @@ class HotelClassifier:
         with open('label_encoder.pkl', 'wb') as f:
             pickle.dump(self.le, f)
 
-    #Pipeline untuk run semua proses
     def run(self):
         self.load_data()
         self.preprocess()
