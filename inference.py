@@ -1,8 +1,4 @@
-# Nama: Felicia Audrey Tanujaya
-# NIM: 2702217610
-# Kelas: LE09 Model Deployment
-# UTS Model Deployment No 3: Code Inference
-# !pip install streamlit
+#Inference Code
 import streamlit as st
 import pandas as pd
 import numpy as np
