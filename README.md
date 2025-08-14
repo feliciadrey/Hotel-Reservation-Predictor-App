@@ -1,5 +1,5 @@
 # Hotel Reservation Predictor App
-Machine learning model and interactive **Streamlit application** to predict hotel booking cancellations based on guest, booking, and pricing details. The project covers data preprocessing, model training, evaluation, saving model artifacts, and building a user-friendly web app for real-time predictions.
+Machine learning model and interactive Streamlit application to predict hotel booking cancellations based on guest, booking, and pricing details. The project covers data preprocessing, model training, evaluation, saving model artifacts, and building a user-friendly web app for real-time predictions.
 
 ---
 
