@@ -20,7 +20,7 @@ The workflow includes:
 
 ---
 
-## 📊 Data
+## Data
 
 The dataset contains **36,275 entries** and **18 features** describing hotel booking details, customer information, and pricing data.
 
@@ -52,7 +52,7 @@ The dataset contains **36,275 entries** and **18 features** describing hotel boo
 
 ---
 
-## 🚀 Features
+## Features
 - Data preprocessing pipeline:
   - Missing value removal
   - One-hot encoding for categorical features
@@ -69,7 +69,7 @@ The dataset contains **36,275 entries** and **18 features** describing hotel boo
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Python** – data preprocessing and model training
 - **Pandas / NumPy** – data manipulation
 - **Matplotlib / Seaborn** – data visualization
